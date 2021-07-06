@@ -1,8 +1,10 @@
 p{
-    color: blue;
+    color: white;
 }
 
-
+body{
+    background-color: #00022e;
+}
 .btn{
     text-decoration: none;
     padding: 12px 47px;
