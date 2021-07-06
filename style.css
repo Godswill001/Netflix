@@ -1,5 +1,6 @@
 p{
     color: white;
+
 }
 
 body{
@@ -8,6 +9,6 @@ body{
 .btn{
     text-decoration: none;
     padding: 12px 47px;
-    background-color: deeppink;
+    background-color: purple;
     color: #fff;
 }
